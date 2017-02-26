@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">MCScheduler</string>
+    <string name="first_option">Edit HomePage</string>
+    <string name="second_option">Add schedule</string>
+    <string name="third_option">Modify schedule</string>
+    <string name="home">Home Page</string>
+    <string name="findProf">Professors</string>
+    <string name="findOther">Others</string>
+    <string name="reminder">Reminders</string>
+    <string name="title_activity_first_pane">Pane first</string>
+    <string name="title_activity_second_pane">Pane Second</string>
+</resources>
